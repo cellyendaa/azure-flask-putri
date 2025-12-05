@@ -1,2 +1,1 @@
-# azure-flask-putri
-Praktik Cloud Computing — Deploy aplikasi Flask ke Azure App Service menggunakan GitHub Actions.
+This is a test for Azure deployment.
